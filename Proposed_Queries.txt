@@ -1,0 +1,13 @@
+Proposed Queries
+
+1. How many suits that have at least 1 king size bed are available?
+2. How many rooms can accomodate more than 6 guests and are not adjacent?
+3. What customers have made the most reservation since 2018?
+4. What service is being requested the most? Count of requests
+5. What stay lasted the longest in the hotel?
+6. What customer requested the longest stay in the hotel?
+7. What employee sent the most messages between 2023 and 2024?
+8. What rooms are under construction in Hotel Star?
+9. What 5 customers spent the most in descending order?
+10. What customers have spent less than 1 hour in indoor pool?
+
